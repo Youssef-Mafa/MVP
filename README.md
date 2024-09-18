@@ -27,7 +27,7 @@ My primary objective was to build a functional, albeit basic, e-commerce platfor
 
 ### Architecture
 
-This MVP is built on a LAMP stack (Linux, Apache, MySQL, PHP), with some JavaScript for enhanced interactivity.
+This MVP is built on a WAMP stack (Windows, Apache, MySQL, PHP), with some JavaScript for enhanced interactivity.
 
 ```mermaid
 graph TD
