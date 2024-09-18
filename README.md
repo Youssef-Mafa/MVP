@@ -146,68 +146,6 @@ While this MVP serves its purpose as a basic e-commerce platform, there's signif
 
 Built with ❤️ and lots of ☕ by [Youssef Mafamane]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# MVP E-commerce Website
-
-## Introduction
-
-This project is an e-commerce website built using HTML, CSS, PHP, JavaScript, and MySQL. It provides a platform for users to buy and sell products online.
-
-[Link to deployed site](#) not now
-
-
-
-**Author:** [Youssef Mafamane]() 
-
-![E-commerce Website Screenshot](\images\index.png) 
-
-## Features
-
-- User registration and authentication
-- Product listing and management
-- Shopping cart functionality
-- Order processing
-- Admin dashboard for sellers
-- Product categorization
-- Product variants (size, color)
-- Payment integration
-
-## Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/ecommerce-website.git
-   ```
-
-2. Set up a local web server (e.g., Apache) with PHP support.
-
-3. Import the MySQL database schema (provided in `database.sql`).
-
-4. Configure the database connection in `db_connect.php`:
-   ```php
-   $host = 'localhost';
-   $username = 'your_username';
-   $password = 'your_password';
-   $database = 'database_name';
-   ```
-
-5. Place the project files in your web server's document root.
-
-## Usage
-
 1. Access the website through your web browser.
 2. Register for an account or log in if you already have one.
 3. Browse products, add items to your cart, and proceed to checkout.
