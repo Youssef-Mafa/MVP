@@ -146,7 +146,3 @@ While this MVP serves its purpose as a basic e-commerce platform, there's signif
 
 Built with ❤️ and lots of ☕ by [Youssef Mafamane]
 
-1. Access the website through your web browser.
-2. Register for an account or log in if you already have one.
-3. Browse products, add items to your cart, and proceed to checkout.
-4. For sellers, access the admin dashboard to manage products and orders.
